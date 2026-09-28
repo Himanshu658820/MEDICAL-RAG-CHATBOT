@@ -207,7 +207,7 @@ MEDICAL-RAG-CHATBOT/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/MEDICAL-RAG-CHATBOT.git
+git clone https://github.com/Himanshu658820/MEDICAL-RAG-CHATBOT.git
 cd MEDICAL-RAG-CHATBOT
 pip install -r requirements.txt
 ```
